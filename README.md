@@ -21,6 +21,14 @@ CalculadoraIdade/
 
 ---
 
+## 🔗 Visualização ao vivo
+
+ A versão no GitHub Pages; Acesse para visualizar a estrutura geral:
+
+[https://viniciusmarquesz.github.io/CalculadoraIdade//](https://viniciusmarquesz.github.io/CalculadoraIdade//)
+
+---
+
 ## 🧮 Funcionalidades
 
 - Permite ao usuário inserir dia, mês e ano de nascimento.
